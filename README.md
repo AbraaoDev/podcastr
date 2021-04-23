@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img alt="Podcastr" title="Podcastr" src="/image.svg" />
+    <img alt="Podcastr" title="Podcastr" src="/public/image.svg" />
 </h1>
 
 <br>
 
 <p align="center">
-  <img alt="Podcastr" src="/podcastr.svg" width="120px">
+  <img alt="Podcastr" src="/public/podcastr.svg" width="120px">
 </p>
 
 ## 🧪 Technologies
